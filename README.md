@@ -21,6 +21,10 @@ And that's why this account posts this passage every **Tuesday**.
 
 This repo aims to share a simple BOT which allows you to post text or images on Twitter.
 
+### Other versions
+
+-   Next.js Version: [https://github.com/splyy/bot-fatal-tuesday-next](https://github.com/splyy/bot-fatal-tuesday-next)
+
 ### Twitter
 
 Log in to your [Twitter](https://twitter.com/) account and [create a new app](https://developer.twitter.com/en/portal/dashboard). 
